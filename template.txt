@@ -1,0 +1,11 @@
+title: {item.name}
+author: rabbit
+cover_image: {item.cover_image}
+tags: []
+categories:
+  - {item.type}
+date: {current_time}
+---
+{item.content}
+
+{item.images}
